@@ -10,3 +10,6 @@ To view the source code (Processing, Java based), go to `source/real_firework.pd
 This is a program that visualizes firework on 2D canvas. Especially, 
 a **chained explosion** can frequently occur while the simulation. Every single particles explode and split into children particles, when they collide with another ones.
 
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/99002885/155993818-c23b64ec-faa7-4f8a-b58d-a181c8f4f675.gif">
+</p>
