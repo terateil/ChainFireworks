@@ -1,5 +1,5 @@
 # ChainFireworks
-A firework simulation with chained explosions. 
+A firework simulation with chained explosions.  
 Language: Processing(Java based)  
 Project on October, 2019.
 
