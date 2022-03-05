@@ -13,12 +13,12 @@ a **chained explosion** can frequently occur while the simulation. Every single 
 
 no additional explosions:
 <p align = "center">
-<img src = "https://user-images.githubusercontent.com/99002885/155993818-c23b64ec-faa7-4f8a-b58d-a181c8f4f675.gif", width = 400>
+<img src = "https://user-images.githubusercontent.com/99002885/155993818-c23b64ec-faa7-4f8a-b58d-a181c8f4f675.gif", width = 600>
 </p>
 
 chain explosions:
 <p align = "center">
-<img src = "https://user-images.githubusercontent.com/99002885/155996163-92cf4493-63fa-4439-aefa-50a84ff0c728.gif", width = 400>
+<img src = "https://user-images.githubusercontent.com/99002885/155996163-92cf4493-63fa-4439-aefa-50a84ff0c728.gif", width = 600>
 </p>
 
 Due to the limit of computing resources, each particles are set to lose their ability to explode after reaching 3rd generation. Still, the simulation can run slowly in the case when extremely many particles exist at some moment. You can check the total count of chain explosions displayed as white number.
