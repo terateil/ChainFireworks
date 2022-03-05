@@ -1,6 +1,7 @@
 # ChainFireworks
-A firework simulation with chained explosions.  
-Written in Processing(Java), October, 2019.
+A firework simulation with chained explosions. 
+Language: Processing(Java based)  
+Project on October, 2019.
 
 ## Get Started
 To start the simulation, clone this repository, and run `real_firework.exe`.  
