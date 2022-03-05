@@ -21,4 +21,4 @@ chain explosions:
 <img src = "https://user-images.githubusercontent.com/99002885/155996163-92cf4493-63fa-4439-aefa-50a84ff0c728.gif", width = 400>
 </p>
 
-Due to the limit of computing resources, each particles are set to lose their ability to explode after reaching 3rd generation. Still, the simulation can run slowly in the case when extremely many particles exist at some moment. You can check the total count of chain explosions in white number.
+Due to the limit of computing resources, each particles are set to lose their ability to explode after reaching 3rd generation. Still, the simulation can run slowly in the case when extremely many particles exist at some moment. You can check the total count of chain explosions displayed as white number.
